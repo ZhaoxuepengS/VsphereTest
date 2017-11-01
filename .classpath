@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/VsphereSDK/SDK/vsphere-ws/java/JAXWS/lib/samples-annotations-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/VsphereSDK/SDK/vsphere-ws/java/JAXWS/lib/samples-core-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/VsphereSDK/SDK/vsphere-ws/java/JAXWS/lib/sblim-cim-client2-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/VsphereSDK/SDK/vsphere-ws/java/JAXWS/lib/ssoclient.jar"/>
+	<classpathentry kind="lib" path="C:/VsphereSDK/SDK/vsphere-ws/java/JAXWS/lib/ssosamples.jar"/>
+	<classpathentry kind="lib" path="C:/VsphereSDK/SDK/vsphere-ws/java/JAXWS/lib/wssamples.jar"/>
+	<classpathentry kind="lib" path="C:/VsphereSDK/vim25.jar"/>
+	<classpathentry kind="lib" path="C:/VsphereSDK/vmware-vim25-5.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
